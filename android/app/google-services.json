@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "510565907569",
+    "project_id": "fir-food-app-478b6",
+    "storage_bucket": "fir-food-app-478b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510565907569:android:bc60483c9b7915371d2fd0",
+        "android_client_info": {
+          "package_name": "com.example.firebase_food_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-MXw_uxlUUrif2X-X-7DYCY5cyj0KSAI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
